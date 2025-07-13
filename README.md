@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy Oscar Perez
 
 Bienvenido a mi portafolio de proyectos. Aquí encontrarás una selección de mis trabajos, habilidades y formas de contactarme.
 
@@ -21,9 +21,7 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Me especial
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [Nombre del Proyecto 1](enlace) | Breve descripción del proyecto. | React, Node.js |
-| [Nombre del Proyecto 2](enlace) | Breve descripción del proyecto. | Python, Django |
-| [Nombre del Proyecto 3](enlace) | Breve descripción del proyecto. | Java, Spring |
+| [Nombre del Proyecto 1](https://github.com/OskarAPP/PlaneacionPUA.git) | Administracion de materias y docentes de la Universidad Autonoma de Campeche. | React, Node.js |
 
 ## 📈 Estadísticas de GitHub
 
