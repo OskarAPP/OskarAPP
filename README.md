@@ -6,16 +6,9 @@ Bienvenido a mi portafolio de proyectos. Aquí encontrarás una selección de mi
 
 Soy un desarrollador apasionado por la tecnología y la innovación. Me especializo en [tu especialidad, por ejemplo: desarrollo web, aplicaciones móviles, inteligencia artificial, etc.], y siempre busco aprender nuevas herramientas y lenguajes.
 
-- 🌱 Actualmente aprendiendo: [Tecnología/Lenguaje]
-- 💼 Buscando oportunidades en: [Industria/Tipo de trabajo]
-- 📫 Contacto: [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)
-
-## 🛠️ Tecnologías y Herramientas
-
-- Lenguajes: [JavaScript, Python, Java, ...]
-- Frameworks: [React, Node.js, Django, ...]
-- Herramientas: [Git, Docker, VSCode, ...]
-- Otros: [Figma, Photoshop, ...] 
+- 🌱 Actualmente aprendiendo: [React/Python/Laravel/Google Apps Script/PHP/Java/HTML/JavaScript/CSS]
+- 💼 Buscando oportunidades en: [Frontend/UX/UI]
+- 📫 Contacto: (perezperezoscara@gmail.com)
 
 ## 📂 Proyectos Destacados
 
@@ -29,9 +22,8 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Me especial
 
 ## 📫 Cómo contactarme
 
-- Email: [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)
+- Email: perezperezoscara@gmail.com
 - LinkedIn: [TuPerfilLinkedIn](https://linkedin.com/in/tuusuario)
-- Twitter: [@tuusuario](https://twitter.com/tuusuario)
 
 ---
 
