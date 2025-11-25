@@ -10,7 +10,7 @@ Competencias destacadas: aprendizaje rápido, comunicación efectiva, trabajo en
 
 ---
 
-## Badges - Stack tecnológico (generados automáticamente)
+## Badges - Stack tecnológico
 <!-- Badges estilo tarjeta oscuro - puedes cambiarlos por otros temas si lo deseas -->
 <!-- Frontend -->
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
