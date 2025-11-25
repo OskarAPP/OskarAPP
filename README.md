@@ -1,30 +1,173 @@
-# ¡Hola! 👋 Soy Oscar Perez
+<!-- README.md - Versión holográfica / glitch-style para el perfil de Oscar A. Pérez -->
+<!-- Banner holográfico / glitch (inline SVG) -->
+<div align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="160" viewBox="0 0 1200 160" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Banner">
+    <defs>
+      <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+        <stop offset="0" stop-color="#00f0ff"/>
+        <stop offset="0.45" stop-color="#8a2be2"/>
+        <stop offset="1" stop-color="#ff4da6"/>
+      </linearGradient>
+      <filter id="noise">
+        <feTurbulence baseFrequency="0.8" numOctaves="2" stitchTiles="stitch"></feTurbulence>
+        <feColorMatrix type="saturate" values="0"/>
+        <feBlend mode="overlay"/>
+      </filter>
+      <filter id="glitch">
+        <feOffset dx="-6" dy="0" result="off1"/>
+        <feOffset dx="6" dy="0" result="off2"/>
+        <feMerge>
+          <feMergeNode in="off1"/>
+          <feMergeNode in="off2"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+      <linearGradient id="holo" x1="0" x2="1">
+        <stop offset="0" stop-color="#6df3ff"/>
+        <stop offset="0.35" stop-color="#b78bff"/>
+        <stop offset="0.65" stop-color="#ffb0d6"/>
+        <stop offset="1" stop-color="#6df3ff"/>
+      </linearGradient>
+    </defs>
 
-Bienvenido a mi portafolio de proyectos. Aquí encontrarás una selección de mis trabajos, habilidades y formas de contactarme.
+    <!-- background -->
+    <rect width="100%" height="100%" fill="#0b0b10"/>
+    <g filter="url(#noise)" opacity="0.02"><rect width="100%" height="100%" fill="#ffffff"/></g>
 
-## 🚀 Sobre mí
+    <!-- glitch text layers -->
+    <g font-family="Space Grotesk, Arial, Helvetica, sans-serif" text-anchor="middle">
+      <text x="50%" y="55" font-size="28" fill="#c8c8c8" opacity="0.25">PORTAFOLIO — OSCAR A. PÉREZ</text>
 
-Soy un desarrollador apasionado por la tecnología y la innovación. Me especializo en [tu especialidad, por ejemplo: desarrollo web, aplicaciones móviles, inteligencia artificial, etc.], y siempre busco aprender nuevas herramientas y lenguajes.
+      <!-- blue shifted -->
+      <text x="50%" y="105" font-size="48" font-weight="700" fill="#00e5ff" opacity="0.7" style="mix-blend-mode:screen" transform="translate(-2,0)">
+        <animate attributeName="x" values="49%;51%;49%" dur="3s" repeatCount="indefinite"/>
+        OSCAR A. PÉREZ
+      </text>
 
-- 🌱 Actualmente aprendiendo: [React/Python/Laravel/Google Apps Script/PHP/Java/HTML/JavaScript/CSS]
-- 💼 Buscando oportunidades en: [Frontend/UX/UI]
-- 📫 Contacto: (perezperezoscara@gmail.com)
+      <!-- magenta shifted -->
+      <text x="50%" y="105" font-size="48" font-weight="700" fill="#ff63b6" opacity="0.6" transform="translate(2,0)">
+        <animate attributeName="x" values="51%;49%;51%" dur="2.6s" repeatCount="indefinite"/>
+        OSCAR A. PÉREZ
+      </text>
 
-## 📂 Proyectos Destacados
+      <!-- holo top layer -->
+      <text x="50%" y="105" font-size="48" font-weight="700" fill="url(#holo)" style="filter:url(#glitch)">
+        <tspan dx="0">OSCAR A. PÉREZ</tspan>
+      </text>
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [Nombre del Proyecto 1](https://github.com/OskarAPP/PlaneacionPUA.git) | Administracion de materias y docentes de la Universidad Autonoma de Campeche. | React, Node.js |
+      <!-- subtitle -->
+      <text x="50%" y="140" font-size="12" fill="#cfd8ff" opacity="0.9">Software Engineer · Full-Stack · Creative Technologist · WebGL / IA</text>
+    </g>
+  </svg>
+</div>
 
-## 📈 Estadísticas de GitHub
-
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=OskarAPP&show_icons=true&theme=radical)
-
-## 📫 Cómo contactarme
-
-- Email: perezperezoscara@gmail.com
-- LinkedIn: [TuPerfilLinkedIn](https://linkedin.com/in/tuusuario)
+# OSCAR A. PÉREZ
+Software Engineer | Full-Stack Developer | Creative Technologist
 
 ---
 
-¡Gracias por visitar mi portafolio! Si te interesa colaborar o tienes alguna pregunta, no dudes en contactarme.
+## Resumen profesional
+Ingeniero en Tecnologías de Software (Universidad Autónoma de Campeche). Experiencia en desarrollo de aplicaciones web full-stack, servicios en la nube y soporte técnico. Trabajo con React, TypeScript, Node.js, PHP (Laravel), MySQL, Python, Java y administración de VMs en Microsoft Azure sobre Linux.
+
+Competencias destacadas: aprendizaje rápido, comunicación efectiva, trabajo en equipo y enfoque en calidad de software.
+
+---
+
+## Badges - Stack tecnológico (generados automáticamente)
+<!-- Badges estilo tarjeta oscuro - puedes cambiarlos por otros temas si lo deseas -->
+<!-- Frontend -->
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+
+<!-- Backend -->
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel)
+
+<!-- DB / Cloud / Tools -->
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+
+<!-- Otros -->
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-000000?style=for-the-badge&logo=google)
+
+---
+
+## Proyectos destacados
+**Planeación PUA** — [Repositorio](https://github.com/OskarAPP/PlaneacionPUA)  
+Sistema para administración académica de materias y docentes (Universidad Autónoma de Campeche). Tecnologías: React, Node.js, MySQL.
+
+**CRM Universitario**  
+CRM funcional para gestión de clientes y estudiantes. Incluye panel administrativo, reportes y manejo de usuarios. Tecnologías: React, PHP, MySQL.
+
+**Sistema Académico de Documentos**  
+Aplicación en producción para creación y control de documentos escolares. Tecnologías: PHP, Laravel, MySQL.
+
+**Feria Tecnológica — Soporte técnico**  
+Demos, atención a usuarios y resolución de problemas en entorno educativo. Tecnologías: Linux, Windows, herramientas educativas.
+
+> Para cada proyecto recomiendo añadir capturas de pantalla o GIFs (3–7 s) que muestren la interacción principal. GitHub renderiza GIFs y se ven muy bien como mini-demo.
+
+---
+
+## Habilidades técnicas
+- Desarrollo Frontend: React, TypeScript, JavaScript, HTML, CSS  
+- Desarrollo Backend: Node.js, PHP, Laravel  
+- Bases de datos: MySQL  
+- Cloud / Infraestructura: Azure (VMs), Linux, Git  
+- Lenguajes: Python, Java  
+- Experimentos y visualización: WebGL, Three.js, animaciones con GSAP  
+- Automatización: Google Apps Script
+
+## Habilidades blandas
+- Atención al usuario y soporte técnico  
+- Comunicación clara y documentación  
+- Trabajo en equipo y colaboración académica  
+- Elaboración de reportes y entrega responsable
+
+---
+
+## CV (descarga)
+Puedes descargar mi Currículum en formato PDF desde el siguiente enlace (archivo subido):
+[Descargar CV — Oscar A. Pérez](/mnt/data/Cv de Oscar A. Perez Perez (1).pdf)
+
+---
+
+## Estadísticas de GitHub
+Estado actual de commits, lenguajes y actividad:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OskarAPP&show_icons=true&theme=radical)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OskarAPP&layout=compact&theme=radical)
+
+---
+
+## Cómo colaborar o contactarme
+Correo: **perezperezoscara@gmail.com**  
+Teléfono: **996 137 1941**  
+LinkedIn: (añadir enlace cuando lo tengas)  
+GitHub: https://github.com/OskarAPP
+
+---
+
+## Sugerencias para mejorar el README (opcional)
+1. Añadir capturas/GIFs de cada proyecto en una carpeta `/assets` y mostrarlas en la sección de cada proyecto.  
+2. Añadir badges de estado (ci/cd) si integras pipelines (GitHub Actions).  
+3. Añadir un archivo `portfolio-banner.svg` con variantes (oscuro/ claro) y referenciarlo para mantener el README ligero.  
+4. Incluir una sección "Cómo ejecutar localmente" con pasos rápidos para clonar y levantar los proyectos más importantes.  
+5. Añadir testimonios o referencias académicas si dispones de ellas.
+
+---
+
+## Notas finales
+Si quieres, genero:
+- Una versión alternativa con **modo oscuro/Claro automático** (detecta preferencia del sistema).  
+- Un archivo `banner.svg` listo para subir (con más detalles visuales y variaciones).  
+- Un README con **secciones desplegables** (detalles técnicos, comandos, docker-compose).  
+
+Indica cuál prefieres y lo implemento directamente.
