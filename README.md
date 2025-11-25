@@ -80,31 +80,13 @@ Puedes descargar mi Currículum en formato PDF desde el siguiente enlace (archiv
 ## Estadísticas de GitHub
 Estado actual de commits, lenguajes y actividad:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OskarAPP&show_icons=true&theme=radical)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OskarAPP&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OskarAPP&layout=compact&theme=radical)
+
 
 ---
 
 ## Cómo colaborar o contactarme
 Correo: **perezperezoscara@gmail.com**  
-Teléfono: **996 137 1941**  
-LinkedIn: (añadir enlace cuando lo tengas)  
+Teléfono: **5626058831**  
+LinkedIn: https://www.linkedin.com/in/oscar-antonio-perez-perez-a52208381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
 GitHub: https://github.com/OskarAPP
-
----
-
-## Sugerencias para mejorar el README (opcional)
-1. Añadir capturas/GIFs de cada proyecto en una carpeta `/assets` y mostrarlas en la sección de cada proyecto.  
-2. Añadir badges de estado (ci/cd) si integras pipelines (GitHub Actions).  
-3. Añadir un archivo `portfolio-banner.svg` con variantes (oscuro/ claro) y referenciarlo para mantener el README ligero.  
-4. Incluir una sección "Cómo ejecutar localmente" con pasos rápidos para clonar y levantar los proyectos más importantes.  
-5. Añadir testimonios o referencias académicas si dispones de ellas.
-
----
-
-## Notas finales
-Si quieres, genero:
-- Una versión alternativa con **modo oscuro/Claro automático** (detecta preferencia del sistema).  
-- Un archivo `banner.svg` listo para subir (con más detalles visuales y variaciones).  
-- Un README con **secciones desplegables** (detalles técnicos, comandos, docker-compose).  
-
-Indica cuál prefieres y lo implemento directamente.
