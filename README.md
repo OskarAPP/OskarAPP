@@ -50,8 +50,6 @@ Aplicación en producción para creación y control de documentos escolares. Tec
 **Feria Tecnológica — Soporte técnico**  
 Demos, atención a usuarios y resolución de problemas en entorno educativo. Tecnologías: Linux, Windows, herramientas educativas.
 
-> Para cada proyecto recomiendo añadir capturas de pantalla o GIFs (3–7 s) que muestren la interacción principal. GitHub renderiza GIFs y se ven muy bien como mini-demo.
-
 ---
 
 ## Habilidades técnicas
